@@ -32,7 +32,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBxcJNBurjnOFTnxicdHqgvJT_Gfi3z1GY" />
+            android:value="DO-NOT-LOOK-AT-MY-API-CREATE-YOUR-OWN" />
 
         <activity
             android:name=".MapsActivity"
