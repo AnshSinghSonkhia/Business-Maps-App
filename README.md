@@ -1,5 +1,5 @@
 # Business Maps App &nbsp; ![](https://img.shields.io/badge/-Kotlin-blue?style=flat&logo=kotlin&logoColor=black)&nbsp; ![](https://img.shields.io/badge/-Android_Studio-darkred?style=flat&logo=Android&logoColor=black)&nbsp; ![](https://img.shields.io/badge/-Google_Maps_APIs-darkgreen?style=flat&logo=GoogleMaps&logoColor=white)&nbsp; ![](https://img.shields.io/badge/-APIs-purple?style=flat&logo=GoogleCloud&logoColor=white)&nbsp; <img src="https://github.com/AnshSinghSonkhia/Business-Maps/blob/master/app/src/main/res/drawable-v24/restaurant.png" title="Business Maps App Logo" alt="Business Maps App Logo" width="100" height="100" align="right"/>&nbsp;
-An Android App Integrated with Google Maps APIs to locate your nearby business. &nbsp;
+An Android App Integrated with Google Maps APIs to locate your Nearby Business. &nbsp;
 
 
 <!--
